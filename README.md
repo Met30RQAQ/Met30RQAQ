@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Building thoughtful software with Python, AI tools, desktop apps, and clean interfaces.
+  Committed to building tools & platforms that enhances life experiences.
 </p>
 
 <p align="center">
@@ -24,17 +24,17 @@
 
 ## Focus
 
-- AI-assisted desktop experiences
+- Optimize daily usability of digital gadgets
 - Python, Qt, automation, and product tooling
-- Interfaces that feel useful, calm, and alive
+- Small self-built plugins & apps
 
 ## Featured Work
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| `LINGDONG Island` | A desktop dynamic-island assistant with media controls, app adapters, status diagnostics, and polished floating UI. | Python / PyQt / Win32 / SMTC |
+| `LINGDONG-Island` | A desktop dynamic-island assistant with media controls, app adapters, status diagnostics, and polished floating UI. | Python / PyQt / Win32 / SMTC |
 | `VEDA` | A cross-device voice assistant exploring natural dialogue, schedules, Android app workflows, and local command execution. | Android / Java / Python / LLM |
-| `CHD Course Helper` | A Tampermonkey course-selection helper for filtering classes, marking conflicts, reading details, and keeping actions transparent. | JavaScript / Userscript / Tampermonkey |
+| `CHD-Course-Helper` | A Tampermonkey course-selection helper for filtering classes, marking conflicts, reading details, and keeping actions transparent. | JavaScript / Userscript / Tampermonkey |
 
 ## Toolkit
 
