@@ -2,14 +2,19 @@
   <img src="./assets/animated-header.svg" alt="Animated profile header" width="100%" />
 </div>
 
-<h1 align="center">Hi, I'm Your Name</h1>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=36&amp;duration=2800&amp;pause=900&amp;color=74F2CE&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=70&amp;lines=Hi%2C+I%27m+Met30RQAQ;AI+Product+Builder;Python+%2F+Qt+%2F+Automation;Always+building+something+useful"
+    alt="Typing animation: Hi, I'm Met30RQAQ"
+  />
+</p>
 
 <p align="center">
   Building thoughtful software with Python, AI tools, desktop apps, and clean interfaces.
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Met30RQAQ">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
   <a href="mailto:your-email@example.com">
@@ -44,6 +49,5 @@
 ## Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Met30RQAQ&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
 </p>
-
