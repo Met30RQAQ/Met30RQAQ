@@ -24,9 +24,9 @@
 
 ## Focus
 
-- AI-assisted desktop experiences
+- Optimize daily usability of digital gadgets
 - Python, Qt, automation, and product tooling
-- Interfaces that feel useful, calm, and alive
+- Small self-built plugins & apps
 
 ## Featured Work
 
