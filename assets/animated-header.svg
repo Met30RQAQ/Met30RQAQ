@@ -43,8 +43,8 @@
   </g>
 
   <g opacity="0.34">
-    <path d="M112 250C222 112 321 109 435 186C548 263 657 282 803 151C930 38 1013 69 1095 127" stroke="#74F2CE" stroke-width="2"/>
-    <path d="M89 134C251 219 344 236 482 154C609 78 723 57 842 129C957 199 1018 222 1122 185" stroke="#66E3FF" stroke-width="2"/>
+    <path d="M104 222C194 88 310 88 400 180S606 272 696 180S902 88 992 180S1116 238 1160 180" stroke="#74F2CE" stroke-width="2" stroke-linecap="round"/>
+    <path d="M104 138C194 272 310 272 400 180S606 88 696 180S902 272 992 180S1116 122 1160 180" stroke="#66E3FF" stroke-width="2" stroke-linecap="round"/>
   </g>
 
   <g filter="url(#softGlow)">
@@ -77,7 +77,7 @@
 
   <g>
     <text x="470" y="143" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700">Code. Design. Iterate.</text>
-    <text x="474" y="188" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="20">AI tools, desktop products, automation, and polished interfaces.</text>
+    <text x="474" y="188" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="20">Like &amp; Follow @Met30RQAQ</text>
   </g>
 
   <g transform="translate(0 0)">
