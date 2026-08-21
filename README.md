@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Building thoughtful software with Python, AI tools, desktop apps, and clean interfaces.
+  Committed to building tools & platforms that enhances life experiences.
 </p>
 
 <p align="center">
