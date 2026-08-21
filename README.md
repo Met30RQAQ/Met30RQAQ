@@ -48,6 +48,6 @@
 
 ## Snapshot
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Met30RQAQ&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-</p>
+| GitHub Stats | Most Used Languages |
+| --- | --- |
+| <img src="https://github-readme-stats.vercel.app/api?username=Met30RQAQ&amp;custom_title=Met30RQAQ%27s+GitHub+Stats&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=6EA8E8&amp;text_color=8B949E&amp;icon_color=6EA8E8&amp;rank_icon=github" alt="Met30RQAQ's GitHub stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Met30RQAQ&amp;custom_title=Most+Used+Languages&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=6EA8E8&amp;text_color=8B949E&amp;langs_count=6" alt="Most used languages" /> |
