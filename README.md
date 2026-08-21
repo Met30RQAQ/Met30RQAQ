@@ -32,9 +32,9 @@
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| `LINGDONG Island` | A desktop dynamic-island assistant with media controls, app adapters, status diagnostics, and polished floating UI. | Python / PyQt / Win32 / SMTC |
+| `LINGDONG-Island` | A desktop dynamic-island assistant with media controls, app adapters, status diagnostics, and polished floating UI. | Python / PyQt / Win32 / SMTC |
 | `VEDA` | A cross-device voice assistant exploring natural dialogue, schedules, Android app workflows, and local command execution. | Android / Java / Python / LLM |
-| `CHD Course Helper` | A Tampermonkey course-selection helper for filtering classes, marking conflicts, reading details, and keeping actions transparent. | JavaScript / Userscript / Tampermonkey |
+| `CHD-Course-Helper` | A Tampermonkey course-selection helper for filtering classes, marking conflicts, reading details, and keeping actions transparent. | JavaScript / Userscript / Tampermonkey |
 
 ## Toolkit
 
